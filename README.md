@@ -17,4 +17,6 @@ For this task, the current process is:
 
 Although this process does not require too much local memory, it does require a local machine that runs continuously so that the database stays updated, which is not ideal. The storage of the database is also very limited. Ideally, I would move the process to the cloud or a distributed system, where the database can be updated continuously and reliably. If relational databases are not enough to handle the volume of data, NoSQL databases options like MongoDB or Neo4j should be explored 
 
+If you have any questions regarding this repo, feel free to reach me at: Kai.Sun.2021@marshall.usc.edu
+
 
